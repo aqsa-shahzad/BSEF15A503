@@ -1,0 +1,28 @@
+#!usr/bin/env python
+
+total_t=0
+bur_time=[]
+arr_time=[]
+def mySJFfunc(processes.index)
+   newprocesses=list[]
+   element=processes[index]
+   le=len(processes)
+   count=0;   
+for j in range (0,le):
+	a_time=input("Arrival Time:")
+	arrival_time.append(a_time)
+	b_time=input("Burst Time:")
+	burst_time.append(b_time)
+	processes[burst_time[j]] = [j+1 , arrival_time[j]]
+
+print ("Arrival Time           Burst Time")
+for j in range (0,le):
+	print (arrival_time[0], "\t\t\t" , burst_time[j])
+	bur_time.sorted_t()
+total_t = processes.get(bur_time[0])[1]
+ for j in range(le)
+    o=processes[j]
+	if o < elem or (o==elem && j<=index)
+	newprocesses.append(o)
+	count+=le
+	
